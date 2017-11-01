@@ -287,6 +287,11 @@
 		    display: inline-block;
 		    float:none;
 		}
+		#copyright {
+			padding-top: 50px;
+			bottom:0px;
+			text-align: center;
+		}
 
 @media screen {
   h1 {
