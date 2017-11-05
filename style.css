@@ -400,8 +400,6 @@
     .header {
 			background-image: url(image/fondtelephone2.png);
 			background-attachment: fixed;
-			-webkit-background-size:cover;
-			background-size: cover;
 		}
 	.row {
 	    display: -ms-flexbox;
