@@ -46,7 +46,8 @@
 			background-image: url(image/fond9.png);
 			background-size: cover;
 			background-attachment: fixed;
-			padding:100px 0;
+			padding:150px;
+			padding-bottom:200px;
 		}
 		#camilledupont {
 			text-transform: uppercase;
@@ -54,7 +55,7 @@
 			font-family: Julius Sans One;
 			color:white;
 			font-size: 70px;
-			padding-top:100px;
+			padding-top:50px;
 		}
 		#marketingdigital {
 			text-transform: uppercase;
@@ -217,9 +218,11 @@
 			margin:auto;
 			font-size:60px;
 			color: white;
-			display:block;
 			text-align:center;
 			margin-top: 95px;
+			margin-left:600px;
+			display:inline-table;
+			margin-top:150px;
 		}
 		#lienhead a:hover {
 			color:#A6A6A6;
