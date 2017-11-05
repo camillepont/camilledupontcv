@@ -405,8 +405,9 @@
     	}
     .header {
 			background-image: url(image/fondtelephone.jpg);
-			background-size: cover;
 			background-attachment: fixed;
+			-webkit-background-size:cover;
+			background-size: cover;
 		}
 	}
 
