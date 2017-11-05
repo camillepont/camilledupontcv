@@ -177,6 +177,7 @@
     		text-align: center;
     		font-size: 40px;
     		padding-bottom:40px;
+    		padding-top:60px;
     	}
     	.section {
     		font-family: Open Sans Condensed;
@@ -296,11 +297,6 @@
 			text-align: center;
 		}
 
-@media screen {
-  h1 {
-    font-size: 5px;  /*when displayed in a device*/
-  }
-}
 @media (max-width: 575px) { 
 	.header {
 			background-image: url(image/fond11.png);
@@ -314,7 +310,7 @@
 			font-family: Julius Sans One;
 			color:white;
 			font-size: 40px;
-			padding-top:30px;
+			padding-top:0px;
 		}
 	#marketingdigital {
 		font-size:15px;
@@ -359,6 +355,8 @@
     		overflow:hidden;
     		border-radius:50%;
     		width:150px;
+    		margin-left:40px;
+    		margin-bottom:30px;
     	}
     .apropos {
     		margin-left:0px;
@@ -378,7 +376,7 @@
     		margin-bottom:0px;
     		padding-top:0px;
     	}
-    	.langues {
+    .langues {
     		padding-bottom: 0px;
     		margin-right:0px;
     	}
@@ -389,5 +387,26 @@
     	padding-top: 150px;
     	padding-bottom: 80px;
     	}
+    #arrow {
+	    font-size: 60px;
+	    color: white;
+	    margin-left: 110px;
+	    display: inline-table;
+	    margin-top:-5px;}
+	#pointslangues{
+		display:none;
+	}
+	#flecheverticale {
+		display:none;
+	}
+	.informatique {
+    		margin-bottom:0px;
+    		padding-top:0px;
+    	}
+    .header {
+			background-image: url(image/fondtelephone.jpg);
+			background-size: cover;
+			background-attachment: fixed;
+		}
 	}
 
