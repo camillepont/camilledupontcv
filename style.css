@@ -115,6 +115,11 @@
     		font-size: 30px;
     		margin-right: 10px;
     	}
+    	#logoapropos2 {
+    		font-size: 30px;
+    		margin-right: 10px;
+    		color: #2B2B2B;
+    	}
     	#specialisationmd {
     		margin-left: 52px;
     	}
@@ -411,4 +416,6 @@
 	    padding-bottom: 40px;
 	}
 	}
-
+	#listeapropos {
+		list-style-type: none;
+	}
